@@ -78,7 +78,7 @@ Using the native Firebase SDKs with **React Native Firebase** allows you to cons
 
 ## Documentation
 
-To check out our latest docs, visit [https://v5.rnfirebase.io/docs](https://rnfirebase.io/docs)
+To check out our latest docs, visit [https://v5.rnfirebase.io/docs](https://v5.rnfirebase.io/docs)
 
 ## Questions
 
